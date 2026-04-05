@@ -1,4 +1,4 @@
-# Ankita
+# Ankita Survase
 
 Computer Engineering student with a Honours in Data Science at KJ Somaiya School of Engineering, Mumbai. I work at the intersection of machine learning, data analytics, and full-stack development — building systems that are both technically rigorous and practically useful.
 

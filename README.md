@@ -1,10 +1,16 @@
-# Ankita Survase
+<div align="center">
 
-Computer Engineering student with a Honours in Data Science at KJ Somaiya School of Engineering, Mumbai. I work at the intersection of machine learning, data analytics, and full-stack development — building systems that are both technically rigorous and practically useful.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ankita+Survase;Data+Science+%2B+ML+Engineer;Building+things+that+matter)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+Computer Engineering student with Honours in Data Science at KJ Somaiya School of Engineering, Mumbai. I work at the intersection of machine learning, data analytics, and full-stack development — building systems that are both technically rigorous and practically useful.
 
 Currently open to Data Analyst and ML Engineer internship and entry-level opportunities.
 
-[LinkedIn](www.linkedin.com/in/ankita-survase-aa39b3204) · [Personal Email](ankitasurvase134@gmail.com)· [College Email](ankita.survase@somaiya.edu)· [Portfolio](https://ankitas134.github.io/)
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL) · [Email](mailto:YOUR-EMAIL) · [Portfolio](https://ankitas134.github.io)
 
 ---
 
@@ -58,11 +64,21 @@ Built a hate speech classifier (LR + SVM) on 10,000+ samples with 89% precision 
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=ankitas134&show_icons=true&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api?username=ankitas134&show_icons=true&theme=default&hide_border=true)" height="165"/>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ankitas134&layout=compact&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitas134&layout=compact&theme=default&hide_border=true)" height="165"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankitas134&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitas134&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ankitas134&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+</div>
 
 ---
 
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ankitas134&style=flat-square&color=58A6FF&label=Profile+Views)
+
 *Open to internships and collaborations — feel free to reach out.*
+
+</div>

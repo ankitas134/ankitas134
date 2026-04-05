@@ -59,8 +59,8 @@ Built a hate speech classifier (LR + SVM) on 10,000+ samples with 89% precision 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitas134&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitas134&layout=compact&theme=default&hide_border=true" height="165"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=ankitas134&show_icons=true&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api?username=ankitas134&show_icons=true&theme=default&hide_border=true)" height="165"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ankitas134&layout=compact&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitas134&layout=compact&theme=default&hide_border=true)" height="165"/>
 </p>
 
 ---

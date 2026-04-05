@@ -16,7 +16,7 @@ Currently open to Data Analyst and ML Engineer internship and entry-level opport
 
 | Project | Status | Description |
 |--------|--------|-------------|
-| FinGuide | In Progress | AI investment recommendation engine for underserved Indian users |
+| FinCA | In Progress | AI investment recommendation engine for underserved Indian users |
 | Prakriti Classifier | In Progress | Ayurvedic body type classifier using ML ensemble |
 | Wind Energy Forecasting | Ongoing Research | XGBoost + LightGBM on SCADA sensor data |
 

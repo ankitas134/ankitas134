@@ -10,19 +10,44 @@ Computer Engineering student with Honours in Data Science at KJ Somaiya School o
 
 Currently open to Data Analyst and ML Engineer internship and entry-level opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL) · [Email](mailto:YOUR-EMAIL) · [Portfolio](https://ankitas134.github.io)
+---
+
+## Currently Working On
+
+| Project | Status | Description |
+|--------|--------|-------------|
+| FinGuide | In Progress | AI investment recommendation engine for underserved Indian users |
+| Prakriti Classifier | In Progress | Ayurvedic body type classifier using ML ensemble |
+| Wind Energy Forecasting | Ongoing Research | XGBoost + LightGBM on SCADA sensor data |
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript, SQL, HTML, CSS
+<div align="center">
 
-**ML & Data:** Scikit-learn, XGBoost, LightGBM, Prophet, Pandas, NumPy, TF-IDF, NLP, Power BI
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=58A6FF)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=58A6FF)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=58A6FF)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=58A6FF)
 
-**Web & Frameworks:** React, Flask, Streamlit
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=58A6FF)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=58A6FF)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58A6FF)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=58A6FF)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=58A6FF)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=58A6FF)
+![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=58A6FF)
 
-**Tools:** Git, GitHub, Jupyter, VS Code
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58A6FF)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=58A6FF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=58A6FF)
+
+</div>
 
 ---
 
@@ -75,10 +100,14 @@ Built a hate speech classifier (LR + SVM) on 10,000+ samples with 89% precision 
 
 ---
 
+## Connect
+
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ankitas134&style=flat-square&color=58A6FF&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://ankitas134.github.io)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:YOUR-EMAIL)
 
-*Open to internships and collaborations — feel free to reach out.*
+![Visitor Count](https://komarev.com/ghpvc/?username=ankitas134&style=flat-square&color=58A6FF&label=Profile+Views)
 
 </div>

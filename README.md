@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ankita+Survase+%F0%9F%91%8B;ML+Engineer+%7C+Data+Science+Honours;Physics-Informed+AI+%7C+ICTEAH+2026;Building+ML+for+Finance%2C+Health+%26+Energy)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=120&section=header&animation=fadeIn"/>
 
 </div>
 
@@ -10,7 +9,7 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitas134&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
 
-### 🎓 About Me
+### About Me
 
 Computer Engineering undergraduate **(CGPA 8.39)** with Honours in Data Science at **KJ Somaiya School of Engineering**, Mumbai.
 

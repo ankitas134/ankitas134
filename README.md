@@ -104,9 +104,12 @@ Built a hate speech classifier (LR + SVM) on 10,000+ samples with 89% precision 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/ankita-survase-aa39b3204)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=58A6FF)](https://www.kaggle.com/ankitasurvasee)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://ankitas134.github.io)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:YOUR-EMAIL)
+[![Personal Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:ankitasurvase134@gmail.com)
+[![College Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:ankita.survase@somaiya.edu)
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ankitas134&style=flat-square&color=58A6FF&label=Profile+Views)
 

@@ -16,33 +16,33 @@ Computer Engineering undergraduate **(CGPA 8.39)** with Honours in Data Science 
 
 I work at the intersection of **machine learning, data analytics, and full-stack development** — building systems that are technically rigorous and practically useful.
 
-- 🔬 **Research:** Physics-Informed Wind Power Forecasting
-- 🏆 **ICTEAH 2026** contributor · Innovation Award, CiiA-5
-- 💼 ML Intern @ **Techiolaza Innovations**
-- 🌱 Currently exploring: Ensemble methods, NLP, Renewable Energy ML
-- 📫 Open to **Data Science & ML Engineer** internships
+-  **Research:** Physics-Informed Wind Power Forecasting
+-  **ICTEAH 2026** contributor · Innovation Award, CiiA-5
+-  ML Intern @ **Techiolaza Innovations**
+-  Currently exploring: Ensemble methods, NLP, Renewable Energy ML
+-  Open to **Data Science & ML Engineer** internships
 
 <br clear="right"/>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-**💰 FinCA — AI Investment Engine**
+** FinCA — AI Investment Engine**
 > Full-stack ML app for financial inclusion in India. Ensemble models across 6 asset classes, 800 Monte Carlo simulations, 15-feature pipeline targeting 500M+ underserved users.
 
 `Python` `Flask` `React` `XGBoost` `Scikit-learn`
 
-🔗 [Live Demo](https://ankitas134.github.io/FinCA)
+ [Live Demo](https://ankitas134.github.io/FinCA)
 
 </td>
 <td width="50%">
 
-**🌿 Prakriti Classifier — AI in Ayurveda**
+** Prakriti Classifier — AI in Ayurveda**
 > ML web app classifying Vata/Pitta/Kapha body types via RF + SVM ensemble on 13-feature questionnaire. 85%+ accuracy with personalised dietary recommendations.
 
 `Python` `Streamlit` `Flask` `Scikit-learn`
@@ -52,7 +52,7 @@ I work at the intersection of **machine learning, data analytics, and full-stack
 <tr>
 <td width="50%">
 
-**🌬️ Wind Energy Forecasting**
+** Wind Energy Forecasting**
 > Physics-XGBoost on 50,530-record SCADA dataset — R² = 0.9868, 70% RMSE reduction over baseline. Presented at ICTEAH 2026, Innovation Award winner.
 
 `Python` `XGBoost` `LightGBM` `Pandas` `NumPy`
@@ -60,7 +60,7 @@ I work at the intersection of **machine learning, data analytics, and full-stack
 </td>
 <td width="50%">
 
-**🌾 CropSense — Crop Yield Predictor**
+** CropSense — Crop Yield Predictor**
 > Predictive ML system estimating crop yields from soil nutrients, weather and regional data. Scalable to district-level advisory with real-time weather API.
 
 `Python` `XGBoost` `Streamlit` `REST APIs`
@@ -71,7 +71,7 @@ I work at the intersection of **machine learning, data analytics, and full-stack
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -111,15 +111,15 @@ I work at the intersection of **machine learning, data analytics, and full-stack
 
 | Year | Achievement |
 |------|------------|
-| 2026 | 📝 ICTEAH 2026 — Physics-Informed Wind Power Forecasting (Paper ID 172) |
-| 2026 | 🏆 Innovation Award — CiiA-5 Exhibition, Nehru Science Centre, Mumbai |
-| 2025 | ☁️ AWS AI & ML Scholar — Udacity Global Cohort |
-| 2025 | 💼 Infosys Pragati — Path to Future Program |
-| 2024 | 🏸 State-Level Badminton Champion — Maharashtra |
+| 2026 |  ICTEAH 2026 — Physics-Informed Wind Power Forecasting (Paper ID 172) |
+| 2026 |  Innovation Award — CiiA-5 Exhibition, Nehru Science Centre, Mumbai |
+| 2025 |  AWS AI & ML Scholar — Udacity Global Cohort |
+| 2025 |  Infosys Pragati — Path to Future Program |
+| 2024 |  State-Level Badminton Champion — Maharashtra |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -130,7 +130,7 @@ I work at the intersection of **machine learning, data analytics, and full-stack
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 <div align="center">
 

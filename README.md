@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a3a5c,70:0f2744,100:58A6FF&height=200&section=header&text=Ankita%20Survase&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Science%20Honours%20%7C%20Physics-Informed%20AI&descAlignY=58&descSize=16&animation=fadeIn"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ML+for+Finance+%F0%9F%92%B9+%7C+Health+%F0%9F%8C%BF+%7C+Energy+%E2%9A%A1;Physics-Informed+Wind+Power+Forecasting+%F0%9F%8C%AC;ICTEAH+2026+%E2%80%A2+Innovation+Award+CiiA-5+%F0%9F%8F%86;Open+to+Data+Science+%26+ML+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ankita+Survase+%F0%9F%91%8B;ML+Engineer+%7C+Data+Science+Honours;Physics-Informed+AI+%7C+ICTEAH+2026;Building+ML+for+Finance%2C+Health+%26+Energy+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -65,7 +63,7 @@ Physics-XGBoost hybrid on 50,530-record SCADA dataset — R² = 0.9868, 70% RMSE
 
 **🌾 CropSense — Intelligent Crop Advisory System**
 
-End-to-end ML pipeline for crop yield prediction and smart advisory using soil nutrients (N, P, K), real-time weather API, and regional agri-data. Trained on 10,000+ district-level records with XGBoost + Random Forest ensemble. Features crop recommendation, yield estimation, and fertiliser advisory — scalable to national level.
+End-to-end ML pipeline for crop yield prediction and smart advisory using soil nutrients (N, P, K), real-time weather API, and regional agri-data. Trained on 10,000+ district-level records with XGBoost + Random Forest ensemble. Features crop recommendation, yield estimation, and fertiliser advisory.
 
 `Python` `XGBoost` `Random Forest` `Streamlit` `REST APIs`
 
@@ -154,5 +152,3 @@ End-to-end ML pipeline for crop yield prediction and smart advisory using soil n
 ![Visitor Count](https://komarev.com/ghpvc/?username=ankitas134&style=flat-square&color=58A6FF&label=Profile+Views)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a3a5c,100:0d1117&height=120&section=footer"/>
